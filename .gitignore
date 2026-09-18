@@ -1,0 +1,11 @@
+﻿*.log
+*.jou
+*.wdb
+work/
+transcript
+vsim.wlf
+*.str
+*.pb
+*.dcp
+*.checkpoint
+.Xil/
