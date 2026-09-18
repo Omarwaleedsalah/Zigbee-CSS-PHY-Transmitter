@@ -1,6 +1,6 @@
 ﻿# IEEE 802.15.4 CSS PHY Transmitter
 
-Digital IC Design project implemented in Verilog HDL and verified via QuestaSim and MATLAB, targeting Xilinx FPGA.
+Digital IC Design project implementing an IEEE 802.15.4 CSS PHY Transmitter using Verilog HDL, verified through QuestaSim and MATLAB, and targeted for Xilinx FPGA implementation.
 
 ## Overview
 - **Standard**: IEEE 802.15.4 Chirp Spread Spectrum (CSS) Physical Layer (250 kbps mode)
